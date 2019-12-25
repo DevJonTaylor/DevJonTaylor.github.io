@@ -1,10 +1,7 @@
 <template>
-  <div class="container">
-    
-    <router-view />
-  </div>
+  <div class="container"></div>
 </template>
 
 <style lang="scss">
-@import "materialize-css/sass/materialize";
+@import "~materialize-css/sass/materialize";
 </style>
